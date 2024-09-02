@@ -900,7 +900,7 @@
     <message>
         <location filename="../mainwindow_uuid_table_slots.cpp" line="226"/>
         <source> [Snap Compatibility Mode]</source>
-        <translation> [Kompabilitetsmodus for festing til rutenett]</translation>
+        <translation> [Kompatibilitetsmodus for festing til rutenett]</translation>
     </message>
 </context>
 <context>
