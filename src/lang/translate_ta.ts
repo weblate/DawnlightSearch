@@ -6,88 +6,88 @@
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="14"/>
         <source>Advanced Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>மேம்பட்ட அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="48"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>தேடல்</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="56"/>
         <source>Number of Threads Used for Querying: </source>
-        <translation type="unfinished"></translation>
+        <translation>வினவலுக்கு பயன்படுத்தப்படும் நூல்களின் எண்ணிக்கை: </translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="64"/>
         <location filename="../Ui_advanced_setting_dialog.ui" line="657"/>
         <source>(Auto)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ஆட்டோ)</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="69"/>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="74"/>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="79"/>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="84"/>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="89"/>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation>5</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="94"/>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="117"/>
         <source>Result Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>முடிவு வரம்பு</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="131"/>
         <source>Query Chunk Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>வினவல் துண்டின் அளவு:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="195"/>
         <source>Query Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>வினவல் வரம்பு:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="253"/>
         <source>Max Items in Table:</source>
-        <translation type="unfinished"></translation>
+        <translation>அட்டவணையில் அதிகபட்ச உருப்படிகள்:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="288"/>
         <source>Search Option</source>
-        <translation type="unfinished"></translation>
+        <translation>தேடல் விருப்பம்</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="298"/>
         <source>Instant Search</source>
-        <translation type="unfinished"></translation>
+        <translation>உடனடி தேடல்</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="318"/>
         <source>Start Querying after Typing Finished:</source>
-        <translation type="unfinished"></translation>
+        <translation>தட்டச்சு செய்த பிறகு வினவலைத் தொடங்குங்கள்:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="356"/>
@@ -96,17 +96,17 @@
         <location filename="../Ui_advanced_setting_dialog.ui" line="902"/>
         <location filename="../Ui_advanced_setting_dialog.ui" line="967"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>எம்.எச்</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="383"/>
         <source>Press &quot;Enter&quot; to Search</source>
-        <translation type="unfinished"></translation>
+        <translation>தேட &quot;Enter&quot; ஐ அழுத்தவும்</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="395"/>
         <source>Date-time Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>தேதி நேர வடிவம்:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="402"/>
@@ -158,148 +158,195 @@
 &lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
 
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt;
+
+ &lt;div வகுப்பு = &quot;அட்டவணை&quot;&gt; &lt;அட்டவணை வகுப்பு = &quot;பொதுவான&quot;&gt;
+ &lt;thead&gt; &lt;tr வகுப்பு = &quot;qt- பாணி&quot;&gt; &lt;th&gt; வெளிப்பாடு &lt;/th&gt; &lt;th&gt; வெளியீடு &lt;/th&gt; &lt;/tr&gt; &lt;/dead&gt;
+ இப்போது
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; dd &lt;/td&gt; &lt;td&gt; நாள் ஒரு முன்னணி பூச்சியத்துடன் (01 முதல் 31 வரை) &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; ddd &lt;/td&gt; &lt;td&gt; சுருக்கமான உள்ளூர்மயமாக்கப்பட்ட நாள் பெயர் (எ.கா. &apos;தி மோன்&apos; முதல் &apos;சூரியன்&apos;). &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; dddd &lt;/td&gt; &lt;td&gt; நீண்ட உள்ளூர்மயமாக்கப்பட்ட நாள் பெயர் (எ.கா. &apos;திங்கள்&apos; முதல் &apos;ஞாயிறு&apos; வரை). &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; m &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியமில்லாத மாதம் (1-12) &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; மிமீ &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியத்துடன் (01-12) &lt;/td&gt; &lt;/tr&gt; உடன் எண் என மாதம்
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; mmm &lt;/td&gt; &lt;td&gt; சுருக்கமான உள்ளூர்மயமாக்கப்பட்ட மாத பெயர் (எ.கா. &apos;சன,&apos; டிசம்பர் &apos;வரை). &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; mmmm &lt;/td&gt; &lt;td&gt; நீண்ட உள்ளூர்மயமாக்கப்பட்ட மாத பெயர் (எ.கா. &apos;சனவரி&apos; முதல் &apos;டிசம்பர்&apos; வரை). &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; yy &lt;/td&gt; &lt;td&gt; ஆண்டு இரண்டு இலக்க எண்ணாக (00-99) &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; yyyy &lt;/td&gt; &lt;td&gt; ஆண்டு நான்கு இலக்க எண்ணாக &lt;/td&gt; &lt;/tr&gt;
+ &lt;/tbody&gt; &lt;/sable&gt; &lt;/viv&gt;
+
+
+ &lt;br/&gt;
+
+
+ &lt;div வகுப்பு = &quot;அட்டவணை&quot;&gt; &lt;அட்டவணை வகுப்பு = &quot;பொதுவான&quot;&gt;
+ &lt;thead&gt; &lt;tr வகுப்பு = &quot;qt- பாணி&quot;&gt; &lt;th&gt; வெளிப்பாடு &lt;/th&gt; &lt;th&gt; வெளியீடு &lt;/th&gt; &lt;/tr&gt; &lt;/dead&gt;
+ இப்போது &gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; hh &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியத்துடன் கூடிய மணிநேரம் (00 முதல் 23 அல்லது 01 முதல் 12 வரை AM/PM காட்சி என்றால்) &lt;/td&gt; &lt;/ tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; h &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியமில்லாத மணிநேரம் (0 முதல் 23 வரை, AM/PM டிச்ப்ளேவுடன் கூட) &lt;/td&gt; &lt;/dr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; hh &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியத்துடன் கூடிய மணிநேரம் (00 முதல் 23 வரை, AM/PM டிச்ப்ளேவுடன் கூட) &lt;/td&gt; &lt;/dr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; m &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியமில்லாத மணித்துளி (0 முதல் 59 வரை) &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; மிமீ &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியத்துடன் (00 முதல் 59 வரை) &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; s &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியம் இல்லாமல் இரண்டாவது (0 முதல் 59) &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; ss &lt;/td&gt; &lt;td&gt; இரண்டாவது முன்னணி பூச்சியத்துடன் (00 முதல் 59) &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; சட் &lt;/td&gt; &lt;td&gt; முன்னணி பூச்சியங்கள் இல்லாமல் மில்லி விநாடிகள் (0 முதல் 999) &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; zzz &lt;/td&gt; &lt;td&gt; முன்னணி பூச்சியங்களுடன் (000 முதல் 999 வரை) &lt;/td&gt; &lt;/dr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; ap அல்லது a &lt;/td&gt; &lt;td&gt; ஒரு AM/pm நேரம் என்று விளக்குகிறது. &lt;i&gt; AP &lt;/i&gt; &quot;AM&quot; அல்லது &quot;PM&quot; ஆக இருக்க வேண்டும். &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; ap அல்லது a &lt;/td&gt; &lt;td&gt; ஒரு AM/pm நேரம் என்று விளக்குகிறது. &lt;i&gt; AP &lt;/i&gt; &quot;AM&quot; அல்லது &quot;PM&quot; ஆக இருக்க வேண்டும். &lt;/td&gt; &lt;/tr&gt;
+ &lt;/tbody&gt; &lt;/sable&gt; &lt;/viv&gt;
+
+ &lt;br/&gt;
+
+ &lt;div வகுப்பு = &quot;அட்டவணை&quot;&gt; &lt;அட்டவணை வகுப்பு = &quot;பொதுவான&quot;&gt;
+ &lt;தலைப்பு&gt; எடுத்துக்காட்டுகள்: &lt;/தலைப்பு&gt;
+ &lt;thead&gt; &lt;tr வகுப்பு = &quot;qt- பாணி&quot;&gt; &lt;th&gt; வடிவம் &lt;/th&gt; &lt;th&gt; உள்ளீடு &lt;/th&gt; &lt;/tr&gt; &lt;/dead&gt;
+ &lt;tbody&gt; &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; dd.mm.yyyy &lt;/td&gt; &lt;td&gt; 21.05.2001 &lt;/td&gt; &lt;/dr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; ddd mmmm டி yy &lt;/td&gt; &lt;td&gt; செவ்வாய் மே 21 01 &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; hh: mm: ss.zzz &lt;/td&gt; &lt;td&gt; 14: 13: 09.042 &lt;/td&gt; &lt;/tr&gt;
+ &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; h: m: s ap &lt;/td&gt; &lt;td&gt; 2: 13: 9 மணி &lt;/td&gt; &lt;/tr&gt;
+ &lt;/tbody&gt; &lt;/sable&gt; &lt;/viv&gt;
+
+ &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="460"/>
         <source>Restore Sorting after New Row Inserted</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய வரிசை செருகப்பட்ட பிறகு வரிசையாக்கத்தை மீட்டமைக்கவும்</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="539"/>
         <source>Database</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவுத்தளம்</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="545"/>
         <source>Database Location</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவுத்தள இடம்</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="551"/>
         <source>Main Database Filename:</source>
-        <translation type="unfinished"></translation>
+        <translation>முக்கிய தரவுத்தள கோப்பு பெயர்:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="561"/>
         <location filename="../Ui_advanced_setting_dialog.ui" line="582"/>
         <source>…</source>
-        <translation type="unfinished"></translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="572"/>
         <source>Temp Database Filename:</source>
-        <translation type="unfinished"></translation>
+        <translation>தற்காலிக தரவுத்தள கோப்பு பெயர்:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="596"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Will tree walk all folders under the root path, no matter whether the subfolders are in the same devices as the root path.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; மரப் படலங்கள் மூல பாதையின் கீழ் அனைத்து கோப்புறைகளையும் வழிநடத்தும், துணை கோப்புறைகள் ரூட் பாதையின் அதே சாதனங்களில் இருந்தாலும் சரி. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="599"/>
         <source>Ingore Folder in Different Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>வெவ்வேறு சாதனங்களில் கோப்புறையை புறக்கணிக்கவும்</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="606"/>
         <source>Compress database file (using zlib) to save disk space when program is closed</source>
-        <translation type="unfinished"></translation>
+        <translation>நிரல் மூடப்படும் போது வட்டு இடத்தை சேமிக்க தரவுத்தள கோப்பை (ZLIB ஐப் பயன்படுத்துதல்) சுருக்கவும்</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="615"/>
         <source>Regular Expression for Excluding Mount Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>மவுண்ட் பாதையைத் தவிர்ப்பதற்கான வழக்கமான வெளிப்பாடு:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="641"/>
         <source>Result Table</source>
-        <translation type="unfinished"></translation>
+        <translation>முடிவு அட்டவணை</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="649"/>
         <source>Prefered Size Unit:</source>
-        <translation type="unfinished"></translation>
+        <translation>விருப்பமான அளவு அலகு:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="662"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation>B</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="667"/>
         <source>KB</source>
-        <translation type="unfinished"></translation>
+        <translation>கே.பி.</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="672"/>
         <source>MB</source>
-        <translation type="unfinished"></translation>
+        <translation>எம்பி</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="677"/>
         <source>GB</source>
-        <translation type="unfinished"></translation>
+        <translation>சிபி</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="682"/>
         <source>TB</source>
-        <translation type="unfinished"></translation>
+        <translation>காசநோய்</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="687"/>
         <source>PB</source>
-        <translation type="unfinished"></translation>
+        <translation>பிபி</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="712"/>
         <source>Theme Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>கருப்பொருள் பெயர்:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="719"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type a folder which contains a &lt;span style=&quot; color:#0109ea;&quot;&gt;index.theme&lt;/span&gt; file.&lt;/p&gt;&lt;p&gt; Themes may be available in &amp;quot;&lt;a href=&quot;file:///usr/share/icons/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;/usr/share/icons&lt;/span&gt;&lt;/a&gt;&amp;quot;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; ஒரு &lt;span சூல் தண்டு = &quot;color:#0109EA;&quot;&gt; index.theme &lt;/span&gt; கோப்பு. &lt;/p&gt; &lt;p&gt; கருப்பொருள்கள் இருக்கலாம் &amp; quot; &lt;/a&gt; &amp; quot;. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="730"/>
         <source>Fallback Theme Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>குறைவடையும் கருப்பொருள் பெயர்:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="737"/>
         <source>FallbackThemeName was introduced in Qt 5.12.</source>
-        <translation type="unfinished"></translation>
+        <translation>கியுடி 5.12 இல் குறைவானது அறிமுகப்படுத்தப்பட்டது.</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="746"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type a folder which contains an &lt;span style=&quot; color:#0109ea;&quot;&gt;index.theme&lt;/span&gt; file.&lt;/p&gt;&lt;p&gt;Themes may be available in &amp;quot;&lt;a href=&quot;file:///usr/share/icons/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;/usr/share/icons&lt;/span&gt;&lt;/a&gt;&amp;quot;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;ச்பான் பாணி = &quot;வண்ணம்:#0109EA;&quot;&gt; index.theme &lt;/span&gt; கோப்பு. &lt;/p&gt; &lt;p&gt; கருப்பொருள்கள் இருக்கலாம் &amp; quot; &lt;/a&gt; &amp; quot;. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="770"/>
         <source>UUID Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Uuid அட்டவணை</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="778"/>
         <source>Timer Interval</source>
-        <translation type="unfinished"></translation>
+        <translation>நேரங்குறிகருவி இடைவெளி</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="786"/>
         <source>Mount-state Update:</source>
-        <translation type="unfinished"></translation>
+        <translation>மவுண்ட்-ச்டேட் புதுப்பிப்பு:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="851"/>
         <source>Rows Update:</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசைகள் புதுப்பிப்பு:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="916"/>
         <source>Database Update:</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவுத்தள புதுப்பிப்பு:</translation>
     </message>
 </context>
 <context>
@@ -307,7 +354,7 @@
     <message>
         <location filename="../Ui_edit_exclued_folder.ui" line="14"/>
         <source>Edit Excluded Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>விலக்கப்பட்ட கோப்புறைகளைத் திருத்து</translation>
     </message>
 </context>
 <context>
@@ -315,322 +362,322 @@
     <message>
         <location filename="../Ui_mainwindow.ui" line="14"/>
         <source>Dawnlight Search</source>
-        <translation type="unfinished"></translation>
+        <translation>டான்லைட் தேடல்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="96"/>
         <source>Fi&amp;le</source>
-        <translation type="unfinished"></translation>
+        <translation>Fi &amp; le</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="102"/>
         <source>Setti&amp;ngs</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகுப்பு &amp; ngs</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="106"/>
         <source>&amp;Language</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; மொழி</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="131"/>
         <source>Abo&amp;ut</source>
-        <translation type="unfinished"></translation>
+        <translation>Abo &amp; பெறுநர்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="141"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>காண்க (&amp;v)</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="162"/>
         <source>Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>கருவிப்பட்டி</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="203"/>
         <location filename="../Ui_mainwindow.ui" line="874"/>
         <source>&amp;Database</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; தரவுத்தளம்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="258"/>
         <location filename="../Ui_mainwindow.ui" line="882"/>
         <source>SQL &amp;Command Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>கவிமொ &amp; கட்டளை முன்னோட்டம்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="286"/>
         <source>Toolbar Case Sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>கருவிப்பட்டி வழக்கு உணர்திறன்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="301"/>
         <source>Toolbar Advanced Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>கருவிப்பட்டி மேம்பட்ட அமைப்பு</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="329"/>
         <source>Sea&amp;rch</source>
-        <translation type="unfinished"></translation>
+        <translation>கடல் &amp; rch</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="403"/>
         <location filename="../Ui_mainwindow.ui" line="519"/>
         <source>Case Sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>வழக்கு உணர்திறன்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="461"/>
         <source>Search Settin&amp;gs</source>
-        <translation type="unfinished"></translation>
+        <translation>அமைப்புகளைத் தேடுங்கள்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="547"/>
         <source>Default Match Option</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலை போட்டி விருப்பம்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="553"/>
         <source>Na&amp;me</source>
-        <translation type="unfinished"></translation>
+        <translation>என் &amp; &amp; மீ ஒன்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="563"/>
         <source>Path/name</source>
-        <translation type="unfinished"></translation>
+        <translation>பாதை/பெயர்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="570"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>பாதை</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="577"/>
         <source>De&amp;v/path</source>
-        <translation type="unfinished"></translation>
+        <translation>டி &amp; வி/பாதை</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="584"/>
         <source>Dev/path/name</source>
-        <translation type="unfinished"></translation>
+        <translation>தேவ்/பாதை/பெயர்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="599"/>
         <source>&amp;About…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; பற்றி…</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="610"/>
         <source>&amp;Set Excluded Folders…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; விலக்கப்பட்ட கோப்புறைகளை அமைக்கவும்…</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="615"/>
         <source>About &amp;Qt…</source>
-        <translation type="unfinished"></translation>
+        <translation>பற்றி &amp; qt…</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="626"/>
         <source> ┗ &amp;Turn on C++ MFT parser</source>
-        <translation type="unfinished"></translation>
+        <translation> C &amp; C ++ MFT பாகுபடுத்தி இயக்கவும்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="629"/>
         <source>Much faster than the Python parser</source>
-        <translation type="unfinished"></translation>
+        <translation>பைதான் பாகுபடுத்தியை விட மிக வேகமாக</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="641"/>
         <source>&amp;Exit…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; வெளியேறு…</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="644"/>
         <source>Exit the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாட்டிலிருந்து வெளியேறவும்.</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="652"/>
         <source>&amp;Use MFT Parser to Build Index</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; குறியீட்டை உருவாக்க MFT பாகுபடுத்தி பயன்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="655"/>
         <source>Only NTFS partition, faster than path walk</source>
-        <translation type="unfinished"></translation>
+        <translation>என்.டி.எஃப்.எச் பகிர்வு மட்டுமே, பாதை நடைப்பயணத்தை விட வேகமாக</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="667"/>
         <source>&amp;Advanced Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>மேம்பட்ட அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="676"/>
         <source>&amp;Open Settings File Path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; திறந்த அமைப்புகள் கோப்பு பாதை</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="691"/>
         <source>Show Location Table</source>
-        <translation type="unfinished"></translation>
+        <translation>இருப்பிட அட்டவணையைக் காட்டு</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="700"/>
         <source>Update DB</source>
-        <translation type="unfinished"></translation>
+        <translation>DB ஐப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="709"/>
         <source>Stop Updating</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்பதை நிறுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="718"/>
         <source>Open &amp;Main DB Path</source>
-        <translation type="unfinished"></translation>
+        <translation>திறந்த மற்றும் முதன்மையான டிபி பாதை</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="727"/>
         <source>Open Temp &amp;DB Path</source>
-        <translation type="unfinished"></translation>
+        <translation>திறந்த தற்காலிக மற்றும் டி.பி.</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="736"/>
         <source>Show Search Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>தேடல் அமைப்பைக் காட்டு</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="750"/>
         <location filename="../Ui_mainwindow.ui" line="753"/>
         <source>Toggle Case Sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>வழக்கு உணர்திறன்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="758"/>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>மறை</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="763"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்டு</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="771"/>
         <source>Show All</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்தையும் காட்டு</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="780"/>
         <location filename="../Ui_mainwindow.ui" line="783"/>
         <source>Update DB (only selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்பு DB (மட்டுமே தேர்ந்தெடுக்கப்பட்டது)</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="792"/>
         <source>&amp;Open Project Homepage…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; திறந்த திட்ட முகப்புப்பக்கம்…</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="797"/>
         <source>&amp;Latest Version</source>
-        <translation type="unfinished"></translation>
+        <translation>அண்மைக் கால பதிப்பு</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="802"/>
         <source>Check Included</source>
-        <translation type="unfinished"></translation>
+        <translation>காசோலை சேர்க்கப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="807"/>
         <source>Uncheck Included</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்வு சேர்க்கப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="812"/>
         <source>Check Updatable</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிக்கத்தக்கதை சரிபார்க்கவும்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="817"/>
         <source>Uncheck Updatable</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிக்கக்கூடிய தேர்வு செய்யவும்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="826"/>
         <source>&amp;Search…</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; தேடுங்கள்…</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="829"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+g</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="837"/>
         <source>(A&amp;uto)</source>
-        <translation type="unfinished"></translation>
+        <translation>(கார்)</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="842"/>
         <source>&amp;English</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; ஆங்கிலம்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="847"/>
         <source>&amp;Simplified Chinese (简体中文) zh_CN</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; சீன (எளிமைப்படுத்தப்பட்ட சீன) ZH_CN ஐ எளிமைப்படுத்துங்கள்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="850"/>
         <source>Simplified Chinese (简体中文) zh_CN</source>
-        <translation type="unfinished"></translation>
+        <translation>சீன (எளிமைப்படுத்தப்பட்ட சீன) ZH_CN ஐ எளிதாக்குங்கள்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="858"/>
         <source>&amp;Search</source>
-        <translation type="unfinished"></translation>
+        <translation>தேடு (&amp;s)</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="866"/>
         <source>S&amp;earch Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>எச் &amp; காது அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="890"/>
         <source>&amp;Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; கருவிப்பட்டி</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="898"/>
         <source>T&amp;oolbar Case Sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>டி &amp; ஓல்பார் வழக்கு உணர்திறன்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="906"/>
         <source>Too&amp;lbar Advanced Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>கூட &amp; lbar மேம்பட்ட அமைப்பு</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="911"/>
         <source>&amp;Hungarian (Magyar nyelv) hu</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; அங்கேரிய (அங்கேரிய) என்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="916"/>
         <source>&amp;Norwegian Bokmål (bokmål) nb_NO</source>
-        <translation type="unfinished"></translation>
+        <translation>நோர்வே போக்மால் (இனப்பெருக்கம்) nb_no</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="921"/>
         <source>&amp;Dutch (Nederlands) nl</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; டச்சு (நெடெர்லாண்ட்ச்) என்.எல்</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="926"/>
         <source>Russian (русский язык) ru</source>
-        <translation type="unfinished"></translation>
+        <translation>ரச்ய (ரச்ய) ரு</translation>
     </message>
 </context>
 <context>
@@ -638,18 +685,18 @@
     <message>
         <location filename="../ui_change_advanced_setting_dialog.cpp" line="73"/>
         <source>All Cores</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து கோர்களும்</translation>
     </message>
     <message>
         <location filename="../ui_change_advanced_setting_dialog.cpp" line="118"/>
         <location filename="../ui_change_advanced_setting_dialog.cpp" line="129"/>
         <source>Select Directory of Database File</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவுத்தள கோப்பின் கோப்பகத்தைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="../ui_change_excluded_folder_dialog.cpp" line="56"/>
         <source>Select Directory to Add</source>
-        <translation type="unfinished"></translation>
+        <translation>சேர்க்க கோப்பகத்தைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -658,42 +705,42 @@
         <location filename="../mainwindow_table_action.cpp" line="156"/>
         <location filename="../mainwindow_table_action.cpp" line="250"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>திற</translation>
     </message>
     <message>
         <location filename="../mainwindow_table_action.cpp" line="261"/>
         <source>Open path</source>
-        <translation type="unfinished"></translation>
+        <translation>திறந்த பாதை</translation>
     </message>
     <message>
         <location filename="../mainwindow_table_action.cpp" line="268"/>
         <source>Copy ...</source>
-        <translation type="unfinished"></translation>
+        <translation>நகலெடு ...</translation>
     </message>
     <message>
         <location filename="../mainwindow_table_action.cpp" line="270"/>
         <source>Copy fullpath</source>
-        <translation type="unfinished"></translation>
+        <translation>ஃபுல்ஃபாத்தை நகலெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="../mainwindow_table_action.cpp" line="272"/>
         <source>Copy filename</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு பெயரை நகலெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="../mainwindow_table_action.cpp" line="274"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>நகல் பாதை</translation>
     </message>
     <message>
         <location filename="../mainwindow_table_action.cpp" line="287"/>
         <source>Move to trash</source>
-        <translation type="unfinished"></translation>
+        <translation>குப்பைக்கு நகர்த்தவும்</translation>
     </message>
     <message>
         <location filename="../mainwindow_table_action.cpp" line="293"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>நீக்கு</translation>
     </message>
 </context>
 <context>
@@ -701,12 +748,12 @@
     <message>
         <location filename="../mainwindow_table_action.cpp" line="380"/>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation>செய்தி</translation>
     </message>
     <message>
         <location filename="../mainwindow_table_action.cpp" line="381"/>
         <source>Are you sure to DELETE?</source>
-        <translation type="unfinished"></translation>
+        <translation>நீக்குவது உறுதி?</translation>
     </message>
 </context>
 <context>
@@ -714,32 +761,32 @@
     <message>
         <location filename="../MainWindow.cpp" line="280"/>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுகிறது ...</translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="735"/>
         <source>Exclude folders from indexing.</source>
-        <translation type="unfinished"></translation>
+        <translation>குறியீட்டிலிருந்து கோப்புறைகளை விலக்குங்கள்.</translation>
     </message>
     <message>
         <location filename="../mainwindow_table_action.cpp" line="392"/>
         <source>Done.</source>
-        <translation type="unfinished"></translation>
+        <translation>முடிந்தது.</translation>
     </message>
     <message>
         <location filename="../mainwindow_uuid_table_slots.cpp" line="220"/>
         <source> [Read Only Mode]</source>
-        <translation type="unfinished"></translation>
+        <translation> [மட்டும் பயன்முறையைப் படியுங்கள்]</translation>
     </message>
     <message>
         <location filename="../mainwindow_uuid_table_slots.cpp" line="222"/>
         <source>Ready.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆயத்தம்.</translation>
     </message>
     <message>
         <location filename="../mainwindow_uuid_table_slots.cpp" line="226"/>
         <source> [Snap Compatibility Mode]</source>
-        <translation type="unfinished"></translation>
+        <translation> [ச்னாப் பொருந்தக்கூடிய பயன்முறை]</translation>
     </message>
 </context>
 <context>
@@ -747,184 +794,185 @@
     <message>
         <location filename="../MainWindow.cpp" line="261"/>
         <source>Database is locked by</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவுத்தளம் பூட்டப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="262"/>
         <source>Appname: </source>
-        <translation type="unfinished"></translation>
+        <translation>அபோகாலிப்சில்: </translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="263"/>
         <source>PID: </source>
-        <translation type="unfinished"></translation>
+        <translation>பிஐடி: </translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="264"/>
         <source>Hostname:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஓச்ட்பெயர்:</translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="268"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>எச்சரிக்கை</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="48"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>தேடல்</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="49"/>
         <source>Mount Path</source>
-        <translation type="unfinished"></translation>
+        <translation>மவுண்ட் பாதை</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="50"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>சிட்டை</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="51"/>
         <source>UUID</source>
-        <translation type="unfinished"></translation>
+        <translation>Uuid</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="52"/>
         <source>Alias</source>
-        <translation type="unfinished"></translation>
+        <translation>மாற்றுப்பெயர்</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="53"/>
         <source>FS Type</source>
-        <translation type="unfinished"></translation>
+        <translation>FS வகை</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="54"/>
         <source>Dev name</source>
-        <translation type="unfinished"></translation>
+        <translation>தேவ் பெயர்</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="55"/>
         <source>Major Device Num</source>
-        <translation type="unfinished"></translation>
+        <translation>முக்கிய சாதன எண்</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="56"/>
         <source>Minor Device Num</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறிய சாதனம் எண்</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="57"/>
         <source>Items</source>
-        <translation type="unfinished"></translation>
+        <translation>உருப்படிகள்</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="58"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>புதுப்பிப்பு</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="59"/>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்னேற்றம்</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="68"/>
         <source>Check to search this device. The icon indicates the mount state.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த சாதனத்தைத் தேட சரிபார்க்கவும். படவுரு மவுண்ட் ச்டேட்டைக் குறிக்கிறது.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="69"/>
         <source>Path where the device is mounted.</source>
-        <translation type="unfinished"></translation>
+        <translation>சாதனம் ஏற்றப்பட்ட பாதை.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="70"/>
         <source>Device label.</source>
-        <translation type="unfinished"></translation>
+        <translation>சாதன சிட்டை.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="71"/>
         <source>Universally unique identifier (UUID).</source>
-        <translation type="unfinished"></translation>
+        <translation>உலகளாவிய தனித்துவமான அடையாளங்காட்டி (UUID).</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="72"/>
         <source>This is a editable column. You may customize the alias of this device.</source>
-        <translation type="unfinished"></translation>
+        <translation>இது ஒரு திருத்தக்கூடிய நெடுவரிசை. இந்த சாதனத்தின் மாற்றுப்பெயரை நீங்கள் தனிப்பயனாக்கலாம்.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="73"/>
         <source>File system type.</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு முறைமை வகை.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="74"/>
         <source>Device name.</source>
-        <translation type="unfinished"></translation>
+        <translation>சாதன பெயர்.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="75"/>
         <location filename="../globals.cpp" line="76"/>
         <source>Each storage device is represented by a major number and a range of minor numbers,
 which are used to identify either the entire device or a partition within the device.</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒவ்வொரு சேமிப்பக சாதனமும் ஒரு பெரிய எண் மற்றும் சிறிய எண்களின் வரம்பால் குறிப்பிடப்படுகின்றன,
+ அவை முழு சாதனத்தையும் அல்லது சாதனத்திற்குள் ஒரு பகிர்வை அடையாளம் காண பயன்படுத்தப்படுகின்றன.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="77"/>
         <source>Total number of items in this device.</source>
-        <translation type="unfinished"></translation>
+        <translation>இந்த சாதனத்தில் உள்ள மொத்த பொருட்களின் எண்ணிக்கை.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="78"/>
         <source>Check to update this device when click Update All button.</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்லா பொத்தானையும் புதுப்பிக்கும்போது இந்த சாதனத்தைப் புதுப்பிக்க சரிபார்க்கவும்.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="79"/>
         <source>Update progress</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்னேற்றத்தைப் புதுப்பிக்கவும்</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="100"/>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புப்பெயர்</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="101"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>பாதை</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="102"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவு</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="103"/>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புறை</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="104"/>
         <source>Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>நீட்டிப்பு</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="105"/>
         <source>Access Time</source>
-        <translation type="unfinished"></translation>
+        <translation>அணுகல் நேரம்</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="106"/>
         <source>Modify Time</source>
-        <translation type="unfinished"></translation>
+        <translation>நேரத்தை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="107"/>
         <source>Change Time</source>
-        <translation type="unfinished"></translation>
+        <translation>நேரத்தை மாற்றவும்</translation>
     </message>
 </context>
 </TS>
