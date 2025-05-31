@@ -158,54 +158,54 @@
 &lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
 
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt;
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 
- &lt;div வகுப்பு = &quot;அட்டவணை&quot;&gt; &lt;அட்டவணை வகுப்பு = &quot;பொதுவான&quot;&gt;
- &lt;thead&gt; &lt;tr வகுப்பு = &quot;qt- பாணி&quot;&gt; &lt;th&gt; வெளிப்பாடு &lt;/th&gt; &lt;th&gt; வெளியீடு &lt;/th&gt; &lt;/tr&gt; &lt;/dead&gt;
- இப்போது
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; dd &lt;/td&gt; &lt;td&gt; நாள் ஒரு முன்னணி பூச்சியத்துடன் (01 முதல் 31 வரை) &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; ddd &lt;/td&gt; &lt;td&gt; சுருக்கமான உள்ளூர்மயமாக்கப்பட்ட நாள் பெயர் (எ.கா. &apos;தி மோன்&apos; முதல் &apos;சூரியன்&apos;). &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; dddd &lt;/td&gt; &lt;td&gt; நீண்ட உள்ளூர்மயமாக்கப்பட்ட நாள் பெயர் (எ.கா. &apos;திங்கள்&apos; முதல் &apos;ஞாயிறு&apos; வரை). &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; m &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியமில்லாத மாதம் (1-12) &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; மிமீ &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியத்துடன் (01-12) &lt;/td&gt; &lt;/tr&gt; உடன் எண் என மாதம்
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; mmm &lt;/td&gt; &lt;td&gt; சுருக்கமான உள்ளூர்மயமாக்கப்பட்ட மாத பெயர் (எ.கா. &apos;சன,&apos; டிசம்பர் &apos;வரை). &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; mmmm &lt;/td&gt; &lt;td&gt; நீண்ட உள்ளூர்மயமாக்கப்பட்ட மாத பெயர் (எ.கா. &apos;சனவரி&apos; முதல் &apos;டிசம்பர்&apos; வரை). &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; yy &lt;/td&gt; &lt;td&gt; ஆண்டு இரண்டு இலக்க எண்ணாக (00-99) &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; yyyy &lt;/td&gt; &lt;td&gt; ஆண்டு நான்கு இலக்க எண்ணாக &lt;/td&gt; &lt;/tr&gt;
- &lt;/tbody&gt; &lt;/sable&gt; &lt;/viv&gt;
-
-
- &lt;br/&gt;
+&lt;div class=&quot;table&quot;&gt;&lt;table class=&quot;generic&quot;&gt;
+ &lt;thead&gt;&lt;tr class=&quot;qt-style&quot;&gt;&lt;th&gt;வெளிப்பாடு&lt;/th&gt;&lt;th&gt;வெளியீடு&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;d&lt;/td&gt;&lt;td&gt;நாள் ஒரு முன்னணி சுழி இல்லாமல் (1 to 31)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;dd&lt;/td&gt;&lt;td&gt;நாள் ஒரு முன்னணி சுழித்துடன் (01 முதல் 31 வரை)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;ddd&lt;/td&gt;&lt;td&gt;சுருக்கமான நாள் பெயர் (எ.கா. &apos;தி&apos; முதல் &apos;ஞா&apos;). &lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;dddd&lt;/td&gt;&lt;td&gt;நீண்ட நாள் பெயர் (எ.கா. &apos;திங்கள்&apos; முதல் &apos;ஞாயிறு&apos; வரை). &lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;M&lt;/td&gt;&lt;td&gt;ஒரு முன்னணி சுழிமில்லாத திங்கள் (1-12)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;MM&lt;/td&gt;&lt;td&gt;ஒரு முன்னணி சுழித்துடன் திங்கள் (01-12)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;MMM&lt;/td&gt;&lt;td&gt;சுருக்கமான திங்கள் பெயர் (எ.கா. &apos;சன&apos; முதல் &apos;டிச&apos; வரை). &lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;MMMM&lt;/td&gt;&lt;td&gt;நீண்ட திங்கள் பெயர் (எ.கா. &apos;சனவரி&apos; முதல் &apos;டிசம்பர்&apos; வரை). &lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;yy&lt;/td&gt;&lt;td&gt;ஆண்டு இரண்டு இலக்க எண்ணாக (00-99)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;yyyy&lt;/td&gt;&lt;td&gt;ஆண்டு நான்கு இலக்க எண்ணாக&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
 
 
- &lt;div வகுப்பு = &quot;அட்டவணை&quot;&gt; &lt;அட்டவணை வகுப்பு = &quot;பொதுவான&quot;&gt;
- &lt;thead&gt; &lt;tr வகுப்பு = &quot;qt- பாணி&quot;&gt; &lt;th&gt; வெளிப்பாடு &lt;/th&gt; &lt;th&gt; வெளியீடு &lt;/th&gt; &lt;/tr&gt; &lt;/dead&gt;
- இப்போது &gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; hh &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியத்துடன் கூடிய மணிநேரம் (00 முதல் 23 அல்லது 01 முதல் 12 வரை AM/PM காட்சி என்றால்) &lt;/td&gt; &lt;/ tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; h &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியமில்லாத மணிநேரம் (0 முதல் 23 வரை, AM/PM டிச்ப்ளேவுடன் கூட) &lt;/td&gt; &lt;/dr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; hh &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியத்துடன் கூடிய மணிநேரம் (00 முதல் 23 வரை, AM/PM டிச்ப்ளேவுடன் கூட) &lt;/td&gt; &lt;/dr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; m &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியமில்லாத மணித்துளி (0 முதல் 59 வரை) &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; மிமீ &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியத்துடன் (00 முதல் 59 வரை) &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; s &lt;/td&gt; &lt;td&gt; ஒரு முன்னணி பூச்சியம் இல்லாமல் இரண்டாவது (0 முதல் 59) &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; ss &lt;/td&gt; &lt;td&gt; இரண்டாவது முன்னணி பூச்சியத்துடன் (00 முதல் 59) &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; சட் &lt;/td&gt; &lt;td&gt; முன்னணி பூச்சியங்கள் இல்லாமல் மில்லி விநாடிகள் (0 முதல் 999) &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; zzz &lt;/td&gt; &lt;td&gt; முன்னணி பூச்சியங்களுடன் (000 முதல் 999 வரை) &lt;/td&gt; &lt;/dr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; ap அல்லது a &lt;/td&gt; &lt;td&gt; ஒரு AM/pm நேரம் என்று விளக்குகிறது. &lt;i&gt; AP &lt;/i&gt; &quot;AM&quot; அல்லது &quot;PM&quot; ஆக இருக்க வேண்டும். &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; ap அல்லது a &lt;/td&gt; &lt;td&gt; ஒரு AM/pm நேரம் என்று விளக்குகிறது. &lt;i&gt; AP &lt;/i&gt; &quot;AM&quot; அல்லது &quot;PM&quot; ஆக இருக்க வேண்டும். &lt;/td&gt; &lt;/tr&gt;
- &lt;/tbody&gt; &lt;/sable&gt; &lt;/viv&gt;
+&lt;br/&gt;
 
- &lt;br/&gt;
 
- &lt;div வகுப்பு = &quot;அட்டவணை&quot;&gt; &lt;அட்டவணை வகுப்பு = &quot;பொதுவான&quot;&gt;
- &lt;தலைப்பு&gt; எடுத்துக்காட்டுகள்: &lt;/தலைப்பு&gt;
- &lt;thead&gt; &lt;tr வகுப்பு = &quot;qt- பாணி&quot;&gt; &lt;th&gt; வடிவம் &lt;/th&gt; &lt;th&gt; உள்ளீடு &lt;/th&gt; &lt;/tr&gt; &lt;/dead&gt;
- &lt;tbody&gt; &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; dd.mm.yyyy &lt;/td&gt; &lt;td&gt; 21.05.2001 &lt;/td&gt; &lt;/dr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; ddd mmmm டி yy &lt;/td&gt; &lt;td&gt; செவ்வாய் மே 21 01 &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;odd&quot;&gt; &lt;td&gt; hh: mm: ss.zzz &lt;/td&gt; &lt;td&gt; 14: 13: 09.042 &lt;/td&gt; &lt;/tr&gt;
- &lt;tr valign = &quot;top&quot; வகுப்பு = &quot;கூட&quot;&gt; &lt;td&gt; h: m: s ap &lt;/td&gt; &lt;td&gt; 2: 13: 9 மணி &lt;/td&gt; &lt;/tr&gt;
- &lt;/tbody&gt; &lt;/sable&gt; &lt;/viv&gt;
+&lt;div class=&quot;table&quot;&gt;&lt;table class=&quot;generic&quot;&gt;
+ &lt;thead&gt;&lt;tr class=&quot;qt-style&quot;&gt;&lt;th&gt;வெளிப்பாடு&lt;/th&gt;&lt;th&gt;வெளியீடு&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;h&lt;/td&gt;&lt;td&gt;ஒரு முன்னணி சுழிமில்லாத மணிநேரம் (0 முதல் 23 வரை அல்லது 1 முதல் 12 வரை காலை/மாலை காட்சி என்றால்)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;hh&lt;/td&gt;&lt;td&gt;ஒரு முன்னணி சுழித்துடன் கூடிய மணிநேரம் (00 முதல் 23 வரை அல்லது 01 முதல் 12 வரை காலை/மாலை காட்சி என்றால்)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;H&lt;/td&gt;&lt;td&gt;ஒரு முன்னணி சுழிமில்லாத மணிநேரம் (0 முதல் 23 வரை, காலை/மாலை காட்டியிலும்)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;HH&lt;/td&gt;&lt;td&gt;ஒரு முன்னணி சுழித்துடன் கூடிய மணிநேரம் (00 முதல் 23 வரை, காலை/மாலை காட்டியிலும்)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;m&lt;/td&gt;&lt;td&gt;ஒரு முன்னணி சுழிமில்லாத மணித்துளி (0 முதல் 59 வரை)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;mm&lt;/td&gt;&lt;td&gt;ஒரு முன்னணி சுழித்துடன் மணித்துளி (00 முதல் 59 வரை)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;s&lt;/td&gt;&lt;td&gt;ஒரு முன்னணி சுழிம் இல்லாத நொடி (0 முதல் 59)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;ss&lt;/td&gt;&lt;td&gt;ஒரு முன்னணி சுழித்துடன் நொடி (00 to 59)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;z&lt;/td&gt;&lt;td&gt;முன்னணி சுழிமில்லாத மில்லிநொடிகள் (0 முதல் 999)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;zzz&lt;/td&gt;&lt;td&gt;முன்னணி சுழிங்களுடன் மில்லிநொடிகள் (000 to 999)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;AP or A&lt;/td&gt;&lt;td&gt;ஒரு காலை/மாலை நேரம் என்று விளக்குகிறது. &lt;i&gt;AP&lt;/i&gt; என்பது &quot;AM&quot; அல்லது &quot;PM&quot; ஆக இருக்க வேண்டும்.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;ap or a&lt;/td&gt;&lt;td&gt;ஒரு காலை/மாலை நேரம் என்று விளக்குகிறது. &lt;i&gt;ap&lt;/i&gt; என்பது &quot;am&quot; அல்லது &quot;pm&quot; ஆக இருக்க வேண்டும்.&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
 
- &lt;/body&gt; &lt;/html&gt;</translation>
+&lt;br/&gt;
+
+&lt;div class=&quot;table&quot;&gt;&lt;table class=&quot;generic&quot;&gt;
+&lt;caption&gt;எடுத்துக்காட்டுகள்:&lt;/caption&gt;
+ &lt;thead&gt;&lt;tr class=&quot;qt-style&quot;&gt;&lt;th&gt;வடிவம்&lt;/th&gt;&lt;th&gt;உள்ளீடு&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;dd.MM.yyyy&lt;/td&gt;&lt;td&gt;21.05.2001&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;ddd MMMM d yy&lt;/td&gt;&lt;td&gt;செ மே 21 01&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;hh:mm:ss.zzz&lt;/td&gt;&lt;td&gt;14:13:09.042&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;h:m:s ap&lt;/td&gt;&lt;td&gt;2:13:9 மாலை&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="460"/>
@@ -306,7 +306,7 @@
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="719"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type a folder which contains a &lt;span style=&quot; color:#0109ea;&quot;&gt;index.theme&lt;/span&gt; file.&lt;/p&gt;&lt;p&gt; Themes may be available in &amp;quot;&lt;a href=&quot;file:///usr/share/icons/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;/usr/share/icons&lt;/span&gt;&lt;/a&gt;&amp;quot;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;Html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; ஒரு &lt;span சூல் தண்டு = &quot;color:#0109EA;&quot;&gt; index.theme &lt;/span&gt; கோப்பு. &lt;/p&gt; &lt;p&gt; கருப்பொருள்கள் இருக்கலாம் &amp; quot; &lt;/a&gt; &amp; quot;. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ஒரு &lt;span style=&quot; color:#0109ea;&quot;&gt;index.theme&lt;/span&gt;கோப்பு கொண்ட கோப்புறையை தட்டச்சுசெய்க&lt;/p&gt;&lt;p&gt; &amp;quot;&lt;a href=&quot;file:///usr/share/icons/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;/usr/share/icons&lt;/span&gt;&lt;/a&gt;இல் கருப்பொருள்கள் இருக்கலாம்.&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="730"/>
@@ -321,7 +321,7 @@
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="746"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type a folder which contains an &lt;span style=&quot; color:#0109ea;&quot;&gt;index.theme&lt;/span&gt; file.&lt;/p&gt;&lt;p&gt;Themes may be available in &amp;quot;&lt;a href=&quot;file:///usr/share/icons/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;/usr/share/icons&lt;/span&gt;&lt;/a&gt;&amp;quot;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;ச்பான் பாணி = &quot;வண்ணம்:#0109EA;&quot;&gt; index.theme &lt;/span&gt; கோப்பு. &lt;/p&gt; &lt;p&gt; கருப்பொருள்கள் இருக்கலாம் &amp; quot; &lt;/a&gt; &amp; quot;. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ஒரு &lt;span style=&quot; color:#0109ea;&quot;&gt;index.theme&lt;/span&gt; கோப்பு கொண்ட கோப்புறையை தட்டச்சுசெய்க.&lt;/p&gt;&lt;p&gt;Themes may be available in &amp;quot;&lt;a href=&quot;file:///usr/share/icons/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;/usr/share/icons&lt;/span&gt;&lt;/a&gt;இல் கருப்பொருள்கள் இருக்கலாம்&amp;quot;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="770"/>
@@ -540,7 +540,7 @@
     <message>
         <location filename="../Ui_mainwindow.ui" line="727"/>
         <source>Open Temp &amp;DB Path</source>
-        <translation>திறந்த தற்காலிக மற்றும் டி.பி.</translation>
+        <translation>தற்காலிக தரவுதள பாதையைத் திற</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="736"/>
@@ -967,12 +967,12 @@ which are used to identify either the entire device or a partition within the de
     <message>
         <location filename="../globals.cpp" line="106"/>
         <source>Modify Time</source>
-        <translation>நேரத்தை மாற்றவும்</translation>
+        <translation>நேரத்தைத் திருத்து</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="107"/>
         <source>Change Time</source>
-        <translation>நேரத்தை மாற்றவும்</translation>
+        <translation>நேரத்தை மாற்று</translation>
     </message>
 </context>
 </TS>
