@@ -11,12 +11,12 @@
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="48"/>
         <source>Search</source>
-        <translation>Cari</translation>
+        <translation>Pencarian</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="56"/>
         <source>Number of Threads Used for Querying: </source>
-        <translation>Jumlah threads yang digunakan untuk pertanyaan: </translation>
+        <translation>Jumlah Thread yang Digunakan untuk Kueri: </translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="64"/>
@@ -57,7 +57,7 @@
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="117"/>
         <source>Result Limit</source>
-        <translation>Batasan Hasil</translation>
+        <translation>Batas Hasil</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="131"/>
@@ -72,7 +72,7 @@
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="253"/>
         <source>Max Items in Table:</source>
-        <translation>Item Maks dalam Tabel:</translation>
+        <translation>Maks Item dalam Tabel:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="288"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="318"/>
         <source>Start Querying after Typing Finished:</source>
-        <translation>Mulai Membuat Kueri setelah selesai mengetik:</translation>
+        <translation>Mulai Kueri setelah Pengetikan Selesai:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="356"/>
@@ -96,7 +96,7 @@
         <location filename="../Ui_advanced_setting_dialog.ui" line="902"/>
         <location filename="../Ui_advanced_setting_dialog.ui" line="967"/>
         <source>ms</source>
-        <translation>ms</translation>
+        <translation>md</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="383"/>
@@ -158,7 +158,54 @@
 &lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
 
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+
+&lt;div class=&quot;table&quot;&gt;&lt;table class=&quot;generic&quot;&gt;
+ &lt;thead&gt;&lt;tr class=&quot;qt-style&quot;&gt;&lt;th&gt;Ekspresi&lt;/th&gt;&lt;th&gt;Keluaran&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;d&lt;/td&gt;&lt;td&gt;hari sebagai angka tanpa nol di depan (1 hingga 31)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;dd&lt;/td&gt;&lt;td&gt;hari sebagai angka dengan nol di depan (01 hingga 31)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;ddd&lt;/td&gt;&lt;td&gt;nama hari singkat yang dilokalisasi (mis. &apos;Mon&apos; hingga &apos;Sun&apos;). &lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;dddd&lt;/td&gt;&lt;td&gt;nama hari panjang yang dilokalisasi (mis. &apos;Monday&apos; hingga &apos;Sunday&apos;). &lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;M&lt;/td&gt;&lt;td&gt;bulan sebagai angka tanpa nol di depan (1-12)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;MM&lt;/td&gt;&lt;td&gt;bulan sebagai angka dengan nol di depan (01-12)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;MMM&lt;/td&gt;&lt;td&gt;nama bulan singkat yang dilokalisasi (mis. &apos;Jan&apos; hingga &apos;Dec&apos;). &lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;MMMM&lt;/td&gt;&lt;td&gt;nama bulan panjang yang dilokalisasi (mis. &apos;January&apos; hingga &apos;December&apos;). &lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;yy&lt;/td&gt;&lt;td&gt;tahun sebagai angka dua digit (00-99)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;yyyy&lt;/td&gt;&lt;td&gt;tahun sebagai angka empat digit&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+
+&lt;br/&gt;
+
+
+&lt;div class=&quot;table&quot;&gt;&lt;table class=&quot;generic&quot;&gt;
+ &lt;thead&gt;&lt;tr class=&quot;qt-style&quot;&gt;&lt;th&gt;Ekspresi&lt;/th&gt;&lt;th&gt;Keluaran&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;h&lt;/td&gt;&lt;td&gt;jam tanpa nol di depan (0 hingga 23 atau 1 hingga 12 jika tampilan AM/PM)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;hh&lt;/td&gt;&lt;td&gt;jam dengan nol di depan (00 hingga 23 atau 01 hingga 12 jika tampilan AM/PM)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;H&lt;/td&gt;&lt;td&gt;jam tanpa nol di depan (0 hingga 23, meskipun dengan tampilan AM/PM)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;HH&lt;/td&gt;&lt;td&gt;jam dengan nol di depan (00 hingga 23, meskipun dengan tampilan AM/PM)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;m&lt;/td&gt;&lt;td&gt;menit tanpa nol di depan (0 hingga 59)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;mm&lt;/td&gt;&lt;td&gt;menit dengan nol di depan (00 hingga 59)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;s&lt;/td&gt;&lt;td&gt;detik tanpa nol di depan (0 hingga 59)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;ss&lt;/td&gt;&lt;td&gt;detik dengan nol di depan (00 hingga 59)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;z&lt;/td&gt;&lt;td&gt;milidetik tanpa nol di depan (0 hingga 999)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;zzz&lt;/td&gt;&lt;td&gt;milidetik dengan nol di depan (000 hingga 999)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;AP atau A&lt;/td&gt;&lt;td&gt;ditafsirkan sebagai waktu AM/PM. &lt;i&gt;AP&lt;/i&gt; harus berupa &quot;AM&quot; atau &quot;PM&quot;.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;ap atau a&lt;/td&gt;&lt;td&gt;Ditafsirkan sebagai waktu AM/PM. &lt;i&gt;ap&lt;/i&gt; harus berupa &quot;am&quot; atau &quot;pm&quot;.&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;br/&gt;
+
+&lt;div class=&quot;table&quot;&gt;&lt;table class=&quot;generic&quot;&gt;
+&lt;caption&gt;Contoh:&lt;/caption&gt;
+ &lt;thead&gt;&lt;tr class=&quot;qt-style&quot;&gt;&lt;th&gt;Format&lt;/th&gt;&lt;th&gt;Masukan&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;dd.MM.yyyy&lt;/td&gt;&lt;td&gt;21.05.2001&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;ddd MMMM d yy&lt;/td&gt;&lt;td&gt;Tue May 21 01&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;odd&quot;&gt;&lt;td&gt;hh:mm:ss.zzz&lt;/td&gt;&lt;td&gt;14:13:09.042&lt;/td&gt;&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot; class=&quot;even&quot;&gt;&lt;td&gt;h:m:s ap&lt;/td&gt;&lt;td&gt;2:13:9 pm&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="460"/>
@@ -168,17 +215,17 @@
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="539"/>
         <source>Database</source>
-        <translation>Basisdata</translation>
+        <translation>Basis Data</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="545"/>
         <source>Database Location</source>
-        <translation>Lokasi Basisdata</translation>
+        <translation>Lokasi Basis Data</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="551"/>
         <source>Main Database File Name:</source>
-        <translation>Nama Berkas Basis Data Utama:</translation>
+        <translation>Nama File Basis Data Utama:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="561"/>
@@ -189,27 +236,27 @@
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="572"/>
         <source>Temp Database File Name:</source>
-        <translation>Nama Berkas Basis Data Temp:</translation>
+        <translation>Nama File Basis Data Sementara:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="596"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Will tree walk all folders under the root path, no matter whether the subfolders are in the same devices as the root path.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Akan menjelajahi semua folder di bawah jalur root, terlepas dari apakah subfolder berada di perangkat yang sama dengan jalur root.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="599"/>
         <source>Ingore Folder in Different Devices</source>
-        <translation>Folder Ingore di Perangkat yang Berbeda</translation>
+        <translation>Abaikan Folder di Perangkat Berbeda</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="606"/>
         <source>Compress  the database file (using zlib) to save disk space when programe is closed</source>
-        <translation>Kompres file basisdata (menggunakan zlib) untuk menghemat ruang disk saat program ditutup</translation>
+        <translation>Kompres file basis data (menggunakan zlib) untuk menghemat ruang disk saat program ditutup</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="615"/>
         <source>Regular Expression to Exclude Mount Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekspresi Reguler untuk Mengecualikan Jalur Mount:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="641"/>
@@ -219,7 +266,7 @@
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="649"/>
         <source>Prefered Size Unit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Satuan Ukuran yang Diutamakan:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="662"/>
@@ -259,22 +306,22 @@
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="719"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type a folder which contains a &lt;span style=&quot; color:#0109ea;&quot;&gt;index.theme&lt;/span&gt; file.&lt;/p&gt;&lt;p&gt; Themes may be available in &amp;quot;&lt;a href=&quot;file:///usr/share/icons/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;/usr/share/icons&lt;/span&gt;&lt;/a&gt;&amp;quot;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ketik folder yang berisi file &lt;span style=&quot; color:#0109ea;&quot;&gt;index.theme&lt;/span&gt;.&lt;/p&gt;&lt;p&gt; Tema mungkin tersedia di &amp;quot;&lt;a href=&quot;file:///usr/share/icons/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;/usr/share/icons&lt;/span&gt;&lt;/a&gt;&amp;quot;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="730"/>
         <source>Fallback Theme Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nama Tema Cadangan:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="737"/>
         <source>FallbackThemeName was introduced in Qt 5.12.</source>
-        <translation type="unfinished"></translation>
+        <translation>FallbackThemeName diperkenalkan pada Qt 5.12.</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="746"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type a folder which contains an &lt;span style=&quot; color:#0109ea;&quot;&gt;index.theme&lt;/span&gt; file.&lt;/p&gt;&lt;p&gt;Themes may be available in &amp;quot;&lt;a href=&quot;file:///usr/share/icons/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;/usr/share/icons&lt;/span&gt;&lt;/a&gt;&amp;quot;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ketik folder yang berisi file &lt;span style=&quot; color:#0109ea;&quot;&gt;index.theme&lt;/span&gt;.&lt;/p&gt;&lt;p&gt;Tema mungkin tersedia di &amp;quot;&lt;a href=&quot;file:///usr/share/icons/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;/usr/share/icons&lt;/span&gt;&lt;/a&gt;&amp;quot;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="770"/>
@@ -284,12 +331,12 @@
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="778"/>
         <source>Timer Interval</source>
-        <translation>Interval Pengatur Waktu</translation>
+        <translation>Interval Timer</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="786"/>
         <source>Mount-state Update:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pembaruan Status-Mount:</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="851"/>
@@ -299,7 +346,7 @@
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="916"/>
         <source>Database Update:</source>
-        <translation>Pembaruan Basisdata:</translation>
+        <translation>Pembaruan Basis Data:</translation>
     </message>
 </context>
 <context>
@@ -320,80 +367,80 @@
     <message>
         <location filename="../Ui_mainwindow.ui" line="96"/>
         <source>Fi&amp;le</source>
-        <translation>Fi&amp;le</translation>
+        <translation>Berkas</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="102"/>
         <source>Setti&amp;ngs</source>
-        <translation>Pengatu&amp;ran</translation>
+        <translation>Pengaturan</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="106"/>
         <source>&amp;Language</source>
-        <translation>&amp;Bahasa</translation>
+        <translation>Bahasa</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="130"/>
         <source>Abo&amp;ut</source>
-        <translation>Tenta&amp;ng</translation>
+        <translation>Tentang</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="140"/>
         <source>&amp;View</source>
-        <translation>&amp;Tampilan</translation>
+        <translation>Tampilan</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="161"/>
         <source>ToolBar</source>
-        <translation>Toolbar</translation>
+        <translation>Bilah Alat</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="202"/>
         <location filename="../Ui_mainwindow.ui" line="873"/>
         <source>&amp;Database</source>
-        <translation>&amp;Basisdata</translation>
+        <translation>Basis Data</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="257"/>
         <location filename="../Ui_mainwindow.ui" line="881"/>
         <source>SQL &amp;Command Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Pratinjau Perintah SQL</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="285"/>
         <source>ToolBar Case Sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilah Alat Peka Huruf Besar/Kecil</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="300"/>
         <source>ToolBar Advanced Setting</source>
-        <translation>Pengaturan Lanjutan ToolBar</translation>
+        <translation>Pengaturan Lanjutan Bilah Alat</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="328"/>
         <source>Sea&amp;rch</source>
-        <translation>Ca&amp;ri</translation>
+        <translation>Cari</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="402"/>
         <location filename="../Ui_mainwindow.ui" line="518"/>
         <source>Case Sensitive</source>
-        <translation>Sensitif dengan huruf besar kecil</translation>
+        <translation>Peka Huruf Besar/Kecil</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="460"/>
         <source>Search Settin&amp;gs</source>
-        <translation>Cari Pengatur&amp;an</translation>
+        <translation>Pengaturan Pencarian</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="546"/>
         <source>Default Match Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi Pencocokan Bawaan</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="552"/>
         <source>Na&amp;me</source>
-        <translation>Na&amp;ma</translation>
+        <translation>Nama</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="562"/>
@@ -408,42 +455,42 @@
     <message>
         <location filename="../Ui_mainwindow.ui" line="576"/>
         <source>De&amp;v/Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Dev/Jalur</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="583"/>
         <source>Dev/Path/Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Dev/Jalur/Nama</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="598"/>
         <source>&amp;About...</source>
-        <translation>&amp;Tentang...</translation>
+        <translation>Tentang...</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="609"/>
         <source>&amp;Set Excluded Folders...</source>
-        <translation>&amp;Atur folder yang dikecualikan...</translation>
+        <translation>Atur Folder yang Dikecualikan...</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="614"/>
         <source>About &amp;Qt...</source>
-        <translation>Tentang &amp;Qt...</translation>
+        <translation>Tentang Qt...</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="625"/>
         <source> ┗ &amp;Enable C++ MFT parser</source>
-        <translation> ┗ &amp;amp; Aktifkan parser MFT C++</translation>
+        <translation> ┗ Aktifkan parser MFT C++</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="628"/>
         <source>Much faster than python parser</source>
-        <translation>Lebih cepat dari parser python</translation>
+        <translation>Jauh lebih cepat dari parser python</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="640"/>
         <source>&amp;Exit...</source>
-        <translation>&amp;Keluar..</translation>
+        <translation>Keluar...</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="643"/>
@@ -453,27 +500,27 @@
     <message>
         <location filename="../Ui_mainwindow.ui" line="651"/>
         <source>&amp;Use MFT Parser to Build Index</source>
-        <translation>&amp;Gunakan MFT Parser untuk Membangun Indeks</translation>
+        <translation>Gunakan Parser MFT untuk Membangun Indeks</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="654"/>
         <source>Only NTFS partition, faster than path walk</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanya partisi NTFS, lebih cepat dari penelusuran jalur</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="666"/>
         <source>&amp;Advanced Settings...</source>
-        <translation>&amp;Pengaturan Lanjutan...</translation>
+        <translation>Pengaturan Lanjutan...</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="675"/>
         <source>&amp;Open Settings File Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka Jalur File Pengaturan</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="690"/>
         <source>Show Location Table</source>
-        <translation>Tunjukkan Tabel Lokasi</translation>
+        <translation>Tampilkan Tabel Lokasi</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="699"/>
@@ -488,12 +535,12 @@
     <message>
         <location filename="../Ui_mainwindow.ui" line="717"/>
         <source>Open &amp;Main DB Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka Jalur DB Utama</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="726"/>
         <source>Open Temp &amp;DB Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka Jalur DB Sementara</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="735"/>
@@ -504,7 +551,7 @@
         <location filename="../Ui_mainwindow.ui" line="749"/>
         <location filename="../Ui_mainwindow.ui" line="752"/>
         <source>Toggle Case Sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Alihkan Peka Huruf Besar/Kecil</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="757"/>
@@ -530,37 +577,37 @@
     <message>
         <location filename="../Ui_mainwindow.ui" line="791"/>
         <source>&amp;Open Project Homepage...</source>
-        <translation>&amp;Buka Beranda Proyek...</translation>
+        <translation>Buka Halaman Beranda Proyek...</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="796"/>
         <source>&amp;Latest Version...</source>
-        <translation>&amp;Versi Terbaru...</translation>
+        <translation>Versi Terbaru...</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="801"/>
         <source>Check Included</source>
-        <translation type="unfinished"></translation>
+        <translation>Centang yang Disertakan</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="806"/>
         <source>Uncheck Included</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus Centang yang Disertakan</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="811"/>
         <source>Check Updatable</source>
-        <translation>Periksa Updatable</translation>
+        <translation>Centang yang Dapat Diperbarui</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="816"/>
         <source>Uncheck Updatable</source>
-        <translation>Hapus centang Updatable</translation>
+        <translation>Hapus Centang yang Dapat Diperbarui</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="825"/>
         <source>&amp;Search...</source>
-        <translation>&amp;Cari...</translation>
+        <translation>Cari...</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="828"/>
@@ -570,47 +617,47 @@
     <message>
         <location filename="../Ui_mainwindow.ui" line="836"/>
         <source>(A&amp;uto)</source>
-        <translation>(O&amp;tomatis)</translation>
+        <translation>(Otomatis)</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="841"/>
         <source>&amp;English</source>
-        <translation>&amp;Inggris</translation>
+        <translation>Inggris</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="846"/>
         <source>&amp;Simplified Chinese (简体中文) zh_CN</source>
-        <translation>&amp;Cina Sederhana (简体中文) zh_CN</translation>
+        <translation>Tionghoa Sederhana (简体中文) zh_CN</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="849"/>
         <source>Simplified Chinese (简体中文) zh_CN</source>
-        <translation>Cina Sederhana (简体中文) zh_CN</translation>
+        <translation>Tionghoa Sederhana (简体中文) zh_CN</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="857"/>
         <source>&amp;Search</source>
-        <translation>&amp;Cari</translation>
+        <translation>Cari</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="865"/>
         <source>S&amp;earch Settings</source>
-        <translation>P&amp;engaturan Pencarian</translation>
+        <translation>Pengaturan Pencarian</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="889"/>
         <source>&amp;Toolbar</source>
-        <translation>&amp;Bilah Alat</translation>
+        <translation>Bilah Alat</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="897"/>
         <source>T&amp;oolbar Case Snesitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilah Alat Peka Huruf Besar/Kecil</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="905"/>
         <source>Too&amp;lbar Advanced Setting</source>
-        <translation>P&amp;engaturan Lanjut Bilah Alat</translation>
+        <translation>Pengaturan Lanjutan Bilah Alat</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="910"/>
@@ -620,7 +667,7 @@
     <message>
         <location filename="../Ui_mainwindow.ui" line="915"/>
         <source>Norwegian Bokmål (bokmål) nb_NO</source>
-        <translation>Bokmål Norwegia (bokmål) nb_NO</translation>
+        <translation>Norwegia Bokmål (bokmål) nb_NO</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="920"/>
@@ -633,18 +680,18 @@
     <message>
         <location filename="../ui_change_advanced_setting_dialog.cpp" line="73"/>
         <source>All Cores</source>
-        <translation type="unfinished"></translation>
+        <translation>Semua Inti</translation>
     </message>
     <message>
         <location filename="../ui_change_advanced_setting_dialog.cpp" line="118"/>
         <location filename="../ui_change_advanced_setting_dialog.cpp" line="129"/>
         <source>Select Directory of Database File</source>
-        <translation>Pilih Direktori File Database</translation>
+        <translation>Pilih Direktori File Basis Data</translation>
     </message>
     <message>
         <location filename="../ui_change_excluded_folder_dialog.cpp" line="56"/>
         <source>Select Directory to Add</source>
-        <translation>Pilih Direktori untuk ditambah</translation>
+        <translation>Pilih Direktori untuk Ditambahkan</translation>
     </message>
 </context>
 <context>
@@ -683,7 +730,7 @@
     <message>
         <location filename="../mainwindow_table_action.cpp" line="287"/>
         <source>Move to trash</source>
-        <translation>Pindah ke sampah</translation>
+        <translation>Pindahkan ke sampah</translation>
     </message>
     <message>
         <location filename="../mainwindow_table_action.cpp" line="293"/>
@@ -701,7 +748,7 @@
     <message>
         <location filename="../mainwindow_table_action.cpp" line="381"/>
         <source>Are you sure to DELETE?</source>
-        <translation>Apakah Anda yakin untuk MENGHAPUS?</translation>
+        <translation>Apakah Anda yakin ingin MENGHAPUS?</translation>
     </message>
 </context>
 <context>
@@ -742,12 +789,12 @@
     <message>
         <location filename="../MainWindow.cpp" line="261"/>
         <source>Database is locked by</source>
-        <translation>Database dikunci oleh</translation>
+        <translation>Basis data dikunci oleh</translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="262"/>
         <source>Appname: </source>
-        <translation>Nama aplikasi: </translation>
+        <translation>Nama Aplikasi: </translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="263"/>
@@ -757,7 +804,7 @@
     <message>
         <location filename="../MainWindow.cpp" line="264"/>
         <source>Hostname:</source>
-        <translation>Nama host:</translation>
+        <translation>Nama Host:</translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="268"/>
@@ -802,7 +849,7 @@
     <message>
         <location filename="../globals.cpp" line="55"/>
         <source>Major Device Num</source>
-        <translation>Nomor Perangkat Utama</translation>
+        <translation>Nomor Perangkat Mayor</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="56"/>
@@ -822,17 +869,17 @@
     <message>
         <location filename="../globals.cpp" line="59"/>
         <source>Progress</source>
-        <translation>Kemajuan</translation>
+        <translation>Progres</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="68"/>
         <source>Check to search this device. The icon indicates the mount state.</source>
-        <translation>Centang untuk menelusuri perangkat ini. Ikon menunjukkan status pemasangan.</translation>
+        <translation>Centang untuk mencari perangkat ini. Ikon menunjukkan status mount.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="69"/>
         <source>Path where the device is mounted.</source>
-        <translation>Jalur tempat perangkat dipasang.</translation>
+        <translation>Jalur tempat perangkat di-mount.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="70"/>
@@ -852,7 +899,7 @@
     <message>
         <location filename="../globals.cpp" line="73"/>
         <source>File system type.</source>
-        <translation>Jenis sistem file.</translation>
+        <translation>Tipe sistem berkas.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="74"/>
@@ -864,28 +911,28 @@
         <location filename="../globals.cpp" line="76"/>
         <source>Each storage device is represented by a major number and a range of minor numbers,
 which are used to identify either the entire device or a partition within the device.</source>
-        <translation>Setiap perangkat penyimpanan diwakili oleh nomor utama dan berbagai nomor minor,
+        <translation>Setiap perangkat penyimpanan diwakili oleh nomor mayor dan rentang nomor minor,
 yang digunakan untuk mengidentifikasi seluruh perangkat atau partisi di dalam perangkat.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="77"/>
         <source>Total number of items in this device.</source>
-        <translation>Jumlah total item di perangkat ini.</translation>
+        <translation>Total jumlah item di perangkat ini.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="78"/>
         <source>Check to update this device when click Update All button.</source>
-        <translation>Centang untuk memperbarui perangkat ini ketika mengklik tombol Perbarui Semua.</translation>
+        <translation>Centang untuk memperbarui perangkat ini saat tombol Perbarui Semua diklik.</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="79"/>
         <source>Update progress</source>
-        <translation>Progress pembaruan</translation>
+        <translation>Progres pembaruan</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="100"/>
         <source>Filename</source>
-        <translation>Nama file</translation>
+        <translation>Nama File</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="101"/>
@@ -915,12 +962,12 @@ yang digunakan untuk mengidentifikasi seluruh perangkat atau partisi di dalam pe
     <message>
         <location filename="../globals.cpp" line="106"/>
         <source>Modify Time</source>
-        <translation>Waktu Ubah</translation>
+        <translation>Waktu Modifikasi</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="107"/>
         <source>Change Time</source>
-        <translation>Ubah Waktu</translation>
+        <translation>Waktu Perubahan</translation>
     </message>
 </context>
 </TS>
