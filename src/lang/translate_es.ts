@@ -430,7 +430,7 @@
     <message>
         <location filename="../Ui_mainwindow.ui" line="460"/>
         <source>Search Settin&amp;gs</source>
-        <translation>Ajustes de búsqueda</translation>
+        <translation>&amp;Ajustes de búsqueda</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="546"/>
@@ -637,12 +637,12 @@
     <message>
         <location filename="../Ui_mainwindow.ui" line="857"/>
         <source>&amp;Search</source>
-        <translation>Buscar</translation>
+        <translation>&amp;Buscar</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="865"/>
         <source>S&amp;earch Settings</source>
-        <translation>Ajustes de búsqueda</translation>
+        <translation>Ajust&amp;es de búsqueda</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="889"/>
@@ -657,7 +657,7 @@
     <message>
         <location filename="../Ui_mainwindow.ui" line="905"/>
         <source>Too&amp;lbar Advanced Setting</source>
-        <translation>Ajustes avanzados de barra herramientas</translation>
+        <translation>Ajustes avanzados de &amp;barra herramientas</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="910"/>
@@ -789,7 +789,7 @@
     <message>
         <location filename="../MainWindow.cpp" line="261"/>
         <source>Database is locked by</source>
-        <translation>La DB está bloqueada por</translation>
+        <translation>La BD está bloqueada por</translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="262"/>
