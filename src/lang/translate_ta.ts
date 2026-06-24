@@ -251,7 +251,7 @@
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="606"/>
         <source>Compress database file (using zlib) to save disk space when program is closed</source>
-        <translation>நிரல் மூடப்படும் போது வட்டு இடத்தை சேமிக்க தரவுத்தள கோப்பை (ZLIB ஐப் பயன்படுத்துதல்) சுருக்கவும்</translation>
+        <translation>நிரல் மூடப்படும் போது வட்டு இடத்தை சேமிக்க தரவுத்தள கோப்பை (zlib ஐப் பயன்படுத்தி) சுருக்கவும்</translation>
     </message>
     <message>
         <location filename="../Ui_advanced_setting_dialog.ui" line="615"/>
