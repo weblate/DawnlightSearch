@@ -561,7 +561,7 @@
     <message>
         <location filename="../Ui_mainwindow.ui" line="666"/>
         <source>&amp;Advanced Settings...</source>
-        <translation>高级设置</translation>
+        <translation>高级设置(A)...</translation>
     </message>
     <message>
         <location filename="../Ui_mainwindow.ui" line="675"/>
@@ -1172,7 +1172,7 @@ Error message:
     <message>
         <location filename="../mainwindow_uuid_table_slots.cpp" line="222"/>
         <source>Ready.</source>
-        <translation>就绪</translation>
+        <translation>就绪。</translation>
     </message>
     <message>
         <location filename="../mainwindow_uuid_table_slots.cpp" line="226"/>
@@ -1294,7 +1294,7 @@ Error message:
     <message>
         <location filename="../globals.cpp" line="70"/>
         <source>Device label.</source>
-        <translation>卷标</translation>
+        <translation>卷标。</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="71"/>
@@ -1314,7 +1314,7 @@ Error message:
     <message>
         <location filename="../globals.cpp" line="74"/>
         <source>Device name.</source>
-        <translation>设备名</translation>
+        <translation>设备名。</translation>
     </message>
     <message>
         <location filename="../globals.cpp" line="75"/>
